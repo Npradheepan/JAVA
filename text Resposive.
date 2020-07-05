@@ -1,0 +1,6 @@
+function resize() {
+    var n = $("body").width() / 17 + "pt";
+    $("h1").css('fontSize', n);
+}
+$(window).on("resize", resize);
+$(document).ready(resize);
