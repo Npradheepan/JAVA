@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.19043.1081]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd Microsoft.NET\Framework64\v4.0.30
+The system cannot find the path specified.
+
+C:\Windows\system32>cd Microsoft.NET\Framework64\v4.0.30319
+The system cannot find the path specified.
+
+C:\Windows\system32>cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>aspnet_regiis -i
+Microsoft (R) ASP.NET RegIIS version 4.0.30319.0
+Administration utility to install and uninstall ASP.NET on the local machine.
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Start installing ASP.NET (4.0.30319.0).
+This option is not supported on this version of the operating system.  Administrators should instead install/uninstall ASP.NET 4.5 with IIS8 using the "Turn Windows Features On/Off" dialog,  the Server Manager management tool, or the dism.exe command line tool.  For more details please see http://go.microsoft.com/fwlink/?LinkID=216771.
+Finished installing ASP.NET (4.0.30319.0).
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>
